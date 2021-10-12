@@ -11,9 +11,9 @@ I'm Oscar Ore, I am a software developer from Columbus, Ohio. I am experience in
 - 🌱 I’m currently learning React Native and Typescript 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Anything ! 
-- 📫 How to reach me: 
+<!-- - 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact:  -->
 
 
 ### Languages and Tools: 
