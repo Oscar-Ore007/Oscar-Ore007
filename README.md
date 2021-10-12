@@ -3,7 +3,8 @@
 
 Welcome to my page! 
 
-I'm Oscar Ore, I am a software developer from Columbus, Ohio. I am experience in JavaScript, RESTful routing, managing related data and single page applicaitons.    I started my coding journey back in 2020. After graduating from a coding bootcamp, I found my passion in 
+I'm Oscar Ore, I am a software developer from Columbus, Ohio. I am experience in JavaScript, RESTful routing, managing related data and single page applicaitons.    I started my coding journey back in 2020. After graduating from a coding bootcamp, I found my passion in tech! I come from an sales and business background and I love to build applications that help improve business operations and make an impact in everyone's life! 
+
 
 
 
